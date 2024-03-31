@@ -1,4 +1,4 @@
 ### Hi there 👋
+Code is used primarily on gitlab. All code is then mirrored to a local repo and synced with github. 
 
-Make sure to check out my gitlab profile as well
 https://gitlab.com/developerdurp
