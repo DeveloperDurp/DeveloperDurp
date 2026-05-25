@@ -29,7 +29,7 @@ Here are a few technologies I've been working with recently:
 My career journey has provided comprehensive, hands-on experience across the entire software development lifecycle, shifting from core system administration to advanced, platform-driven DevOps engineering.
 
 **DevSecOps & Platform Engineering:**
-I have a proven track record of modernizing software delivery pipelines by championing DevSecOps practices. This includes architecting and implementing self-service CI/CD ecosystems, managing multi-stage deployments using GitOps methodologies (e.g., ArgoCD), and ensuring robust security postures across critical applications. Core skills involve building and maintaining infrastructure-as-code using **OpenTofu** and **Helm** for deployments targeting **Azure AKS**.
+I have a proven track record of modernizing software delivery pipelines by championing DevSecOps practices. This includes architecting and implementing self-service CI/CD ecosystems, managing multi-stage deployments using GitOps methodologies (e.g., ArgoCD), and ensuring robust security postures across critical applications. Core skills involve building and maintaining infrastructure-as-code using **OpenTofu** and **Helm** for deployments targeting **Kubernetes**.
 
 **Automation & Infrastructure:**
 A significant portion of my expertise lies in driving operational excellence through automation. I have extensive experience standardizing environments using **Ansible** and **PowerShell/DSC** scripts for Windows server configuration. This spans managing complex cloud infrastructures, orchestrating container workflows, and building internal tooling that streamlines development velocity for engineering teams.
