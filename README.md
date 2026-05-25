@@ -1,7 +1,7 @@
 ### Hi there 👋
-Code is pimarily on a local instance of forgejo and synced with gitlab and github.
+Code is pimarily on a local instance of gitlab and synced with gitlab.com and github.com
 
-https://forgejo.durp.info
+https://gitlab.durp.info
 
 ### About Me
 
